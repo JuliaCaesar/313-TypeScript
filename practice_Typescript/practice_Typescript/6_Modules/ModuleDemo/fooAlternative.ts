@@ -1,0 +1,1 @@
+export let fooAlt: number = 10;
