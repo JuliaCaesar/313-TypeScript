@@ -1,0 +1,7 @@
+(make sure you are in the correct directory)
+
+# Command to compile typescript file
+tsc filename.ts
+
+# Command to run JavaScript file
+node filename.js
